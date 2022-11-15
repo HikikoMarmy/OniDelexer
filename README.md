@@ -2,7 +2,7 @@
 Converts Onigiri's .nut, .kwt, and .tlks files from bytecode to a readable format.
 
 **How To**:
-Simply drop your files onto the included Decompile_File.bat and it will attempt to decompile it.
+Simply drop your encoded file onto the included Decompile_File.bat and it will attempt to decompile it.
 
 **Note**:
 I shouldn't need to say this, but the purpose of this tool is for future preservation.
