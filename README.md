@@ -1,2 +1,2 @@
 # OniDelexer
-Converts Onigiri's .nut files back from bytecode to readable Squirrel code.
+Converts Onigiri's .nut, .kwt, and .tlks files from bytecode to a readable format.
